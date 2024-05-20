@@ -1,0 +1,3 @@
+Call of Duty, 249.0, FPS
+Battlefield, 149.0, FPS
+Minecraft, 120.0, Sandbox
